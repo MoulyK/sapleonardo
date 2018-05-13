@@ -20,8 +20,18 @@ On a console run this command, change PATH with the path used to uncompress the 
 ```bash
 docker run -v PATH:/notebooks -it -p 8888:8888 tensorflow/tensorflow:1.4.0
 ```
-ejecutar el docker
 
+Copy the url from the output console and open your browser
+
+```bash
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8888/?token=e310f1aa8f772f5aaadb9c14d9eac157e7f7dbcc94811d12
+```
+
+From here you can open and run the notebook called nyc-passengers-predict
+
+Or browse the [notebook](nyc-passengers-predict.ipynb)
 # Detail
 
 # Next steps
