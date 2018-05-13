@@ -11,6 +11,9 @@ This demo is built on a subset of the information from the New York City Taxi & 
 In this demo we will use Tensorflow machine learning library to train a model on Taxi usage and later use this model to predict the demand on different parts of the New York City
 
 # For the impatient
+Browse the notebook and the results directly on [github](nyc-passengers-predict.ipynb)
+
+# Run on your laptop
 Download and install [Docker](https://www.docker.com/community-edition)
 
 Clone/download this github [repository](https://github.com/tpasensio/sapleonardo/archive/master.zip)
@@ -31,9 +34,11 @@ Copy the url from the output console and open your browser
 
 From here you can open and run the notebook called nyc-passengers-predict
 
-Or browse the [notebook](nyc-passengers-predict.ipynb)
-# Detail
-
 # Next steps
 
+Register for a [SAP Cloud Platform Trial](https://cloudplatform.sap.com/index.html)
+More information on [Foundation to SAP Leonardo](https://www.sap.com/documents/2017/10/2e79eee8-d67c-0010-82c7-eda71af511fa.html)
+
+Tania Perez
+SAP Analytics Expert
 
