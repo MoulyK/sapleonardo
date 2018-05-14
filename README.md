@@ -12,7 +12,7 @@ This demo is built on a subset of the information from the New York City Taxi & 
 In this demo we will use Tensorflow machine learning library to train a model on Taxi usage and later use this model to predict the demand on different parts of the New York City.
 
 # For the impatient
-Browse the notebook and the results directly on [github](nyc-passengers-predict.ipynb).
+Browse the Jupyter notebook and the results directly on [github](nyc-passengers-predict.ipynb).
 
 # Run on your laptop
 Download and install [Docker](https://www.docker.com/community-edition).
