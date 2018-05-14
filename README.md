@@ -1,4 +1,4 @@
-# SAP Leonardo + Tensorlow
+# SAP Leonardo + Tensorflow
 
 What is SAP Leonardo?
 SAP Leonardo Machine Learning is the new branding for SAP's entire portfolio of intelligent applications and services. This is a summary architecture:
